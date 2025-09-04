@@ -59,9 +59,3 @@ Why businesses choose us:
 
 Partner with J3K Technologies to get reliable Atlanta IT support, tailored Alpharetta IT solutions, and trusted Marietta IT services. Our team ensures your business runs securely, efficiently, and without disruption. Contact us today to build an IT strategy that drives growth and long-term success.
 
----
-
-This repository provides documentation, resources, and examples to demonstrate how J3K Technologies enables organizations to achieve secure, efficient, and future-ready IT operations.  
-
----
-
